@@ -5,7 +5,7 @@ My personal dotfiles for a Linux environment, managed with [GNU Stow](https://ww
 ### Repository Structure
 
 This repository is structured for use with `stow`. Each top-level directory (e.g., `nvim`, `zellij`) is considered a separate package.
-
+```txt
 ~/Dotfiles/
 ├── nvim/
 │   └── .config/
@@ -15,6 +15,7 @@ This repository is structured for use with `stow`. Each top-level directory (e.g
     └── .config/
         └── zellij/
             └── ... (your zellij files)
+```
 ### Prerequisites
 
 You need the following tools installed on your system to use these dotfiles:
