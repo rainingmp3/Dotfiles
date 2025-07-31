@@ -6,15 +6,15 @@ My personal dotfiles for a Linux environment, managed with [GNU Stow](https://ww
 
 This repository is structured for use with `stow`. Each top-level directory (e.g., `nvim`, `zellij`) is considered a separate package.
 
-~/Dotfiles/
-├── nvim/
-│   └── .config/
-│       └── nvim/
-│           └── ... (your nvim files)
-└── zellij/
-    └── .config/
-        └── zellij/
-            └── ... (your zellij files)
+~/Dotfiles/ \
+├── nvim/ \
+│   └── .config/ \
+│       └── nvim/ \
+│           └── ... (your nvim files) \
+└── zellij/ \
+    └── .config/ \
+        └── zellij/ \
+            └── ... (your zellij files) 
 
 
 ### Prerequisites
